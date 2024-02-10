@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42a1afb5-a05a-446d-ac59-46f7ad9bce9f" name="Changes" comment="Added main">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/fooble/jumpcore/commands/JumpcoreCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/fooble/jumpcore/commands/subcommands/NewSubcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/fooble/jumpcore/commands/subcommands/Subcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/fooble/jumpcore/manager/ConfigManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/fooble/jumpcore/manager/parkour/ParkourManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="42a1afb5-a05a-446d-ac59-46f7ad9bce9f" name="Changes" comment="Added Command Manager">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/fooble/jumpcore/Jumpcore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/fooble/jumpcore/Jumpcore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707583227806</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Command Manager">
+      <option name="closed" value="true" />
+      <created>1707592813646</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707592813646</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added main" />
+    <MESSAGE value="Added Command Manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Command Manager" />
   </component>
 </project>
