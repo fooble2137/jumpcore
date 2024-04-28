@@ -16,7 +16,7 @@ Jumpcore is a new Jump And Run Plugin for Minecraft Java.
 
 ## Versions
 
-| Plugin Version | under 1.20 | 1.20 | over 1.20.4  |
+| Plugin Version | under 1.20 | 1.20 | over 1.20.5  |
 |:---------------|:----------:|:----:|:------------:|
 | 0.1-ALPHA      |     ❌      |  ✅   |      ❌       |
 
