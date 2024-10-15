@@ -18,6 +18,10 @@ A jump and run plugin for Minecraft PaperMC that allows you to create your own c
 | :----------------------- | :---------: | :---: | :---------: |
 | 0.1-ALPHA                | ❌          | ✅    | ❌         |
 
+## Installation
+
+Coming Soon!
+
 ## Support
 
 For support, email [contact@fooble.dev](mailto:contact@fooble.dev).
