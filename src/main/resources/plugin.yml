@@ -1,0 +1,12 @@
+name: Jumpcore
+main: dev.fooble.mc.jumpcore.Plugin
+version: 0.1-ALPHA
+author: Fooble
+website: www.fooble.dev
+description: A parkour plugin for Minecraft servers.
+api-version: '1.21'
+
+commands:
+  jumpcore:
+    description: The main command for Jumpcore
+    usage: /jumpcore help
