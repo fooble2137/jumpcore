@@ -1,8 +1,7 @@
 
 # Jumpcore
 
-A jump and run plugin for Minecraft PaperMC that allows you to create your own courses. The plugin is highly customisable and offers a lot of features like checkpoints, leaderboards, special effects and more.
-
+A Minecraft parkour plugin for PaperMC that allows players to create custom parkour courses. It includes features like checkpoints, special effects and more to enhance the experience.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/)
 
@@ -14,15 +13,10 @@ A jump and run plugin for Minecraft PaperMC that allows you to create your own c
 
 ## Minecraft Version Support
 
-| Plugin Version           | under 1.21  | 1.21  | over 1.21.x |
+| Plugin Version           | under 1.21  | 1.21.x  | over 1.21.x |
 | :----------------------- | :---------: | :---: | :---------: |
 | 0.1-ALPHA                | ❌          | ✅    | ❌         |
 
 ## Installation
 
 Coming Soon!
-
-## Support
-
-For support, email [contact@fooble.dev](mailto:contact@fooble.dev).
-
